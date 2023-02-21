@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">wallet_apps</string>
+    <string name="gross_salary">Gross Salary</string>
+    <string-array name="Budget">
+        <item>50/30/20</item>
+        <item>70/20/10</item>
+        <item>Custom</item>
+    </string-array>
+</resources>
