@@ -15,12 +15,14 @@ import android.widget.TextView;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
 
 public class activityBudgetCalculation extends AppCompatActivity {
     Dialog dialog;
-    TextView chooseBudget,netSalary;
+    TextView chooseBudget,netSalary,calKeperluan,calKemahuan,calSimpanan;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -109,6 +111,35 @@ public class activityBudgetCalculation extends AppCompatActivity {
                 lyCustom.setVisibility(View.GONE);
                 dialog.dismiss();
                 String number  = s1.replaceAll("[^0-9]", "");
+                String longString = number;
+                String digit1String = longString.substring(0, 1); // Extract the first digit as a string
+                String digit2String = longString.substring(1, 2);
+                String digit3String = longString.substring(2, 3);
+                String digit4String = longString.substring(3, 4);
+                String digit5String = longString.substring(4, 5);
+                String digit6String = longString.substring(5, 6);// Extract the second digit as a string
+                    // Convert the second digit to an int
+                String firstDigit = digit1String+digit2String;
+                String secDigit = digit3String+digit4String;
+                String thirdDigit = digit5String+digit6String;
+
+                double first = Double.parseDouble(firstDigit);
+                double second = Double.parseDouble(secDigit);
+                double third = Double.parseDouble(thirdDigit);
+
+
+                String replaceNet  = netSalary.getText().toString().replaceAll("[^0-9]", "");
+                String netReplace = replaceNet;
+                int conVnetSalary = Integer.parseInt(netReplace);
+                double decimalSalary = conVnetSalary / 100.0; // Divide by 100.0 to move the decimal point two places to the left
+                DecimalFormat df = new DecimalFormat("0.00");
+                String frSalary = df.format(decimalSalary);
+
+                double netSalaryConv = Double.parseDouble(String.valueOf(frSalary));
+
+                double calculationKem = first*netSalaryConv/100;
+                double calculationkep = second*netSalaryConv/100;
+                double calculationSimp = third*netSalaryConv/100;
 
             }
         });

@@ -147,12 +147,14 @@
                 android:text="Keperluan">
             </TextView>
             <TextView
+                android:id="@+id/tv_percKeperluan"
                 android:gravity="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="%">
             </TextView>
             <TextView
+                android:id="@+id/calCKeperluann"
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:layout_width="match_parent"
@@ -186,12 +188,14 @@
                 android:text="Kemahuan">
             </TextView>
             <TextView
+                android:id="@+id/tv_percKemahuan"
                 android:gravity="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="%">
             </TextView>
             <TextView
+                android:id="@+id/calCkemahuan"
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:layout_width="match_parent"
@@ -225,12 +229,14 @@
                 android:text="Simpanan">
             </TextView>
             <TextView
+                android:id="@+id/tv_percSimpanan"
                 android:gravity="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="%">
             </TextView>
             <TextView
+                android:id="@+id/tv_percKemahuan"
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:layout_width="match_parent"
