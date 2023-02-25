@@ -31,9 +31,15 @@ id et_gross
 id ly_Custom
 id signup_input_fullname
 id tv_budget
+id tv_calCKeperluann
+id tv_calCkemahuan
+id tv_calsimpanan
 id tv_eis
 id tv_epf
 id tv_netSalary
+id tv_percKemahuan
+id tv_percKeperluan
+id tv_percSimpanan
 id tv_socso
 id tv_tax
 layout activity_main
@@ -44,6 +50,7 @@ mipmap ic_back
 mipmap ic_back_round
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap ic_refresh
 string app_name
 string gross_salary
 style Theme.Wallet_apps

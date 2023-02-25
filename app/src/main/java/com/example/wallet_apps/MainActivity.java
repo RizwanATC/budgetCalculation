@@ -55,9 +55,6 @@ public class MainActivity extends AppCompatActivity {
                 eis.setText("Rm: "+eisCalculation);
                 tax.setText("Rm: "+taxCalculation);
 
-
-
-
             }
         });
 

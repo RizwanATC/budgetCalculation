@@ -1,210 +1,230 @@
 [
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxxhdpi_ic_back.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-xxxhdpi\\ic_back.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable_rm.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable\\rm.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\layout_dialog_formula_layout.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\layout\\dialog_formula_layout.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-anydpi-v26_ic_back.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-anydpi-v26\\ic_back.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-mdpi_ic_back_round.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-mdpi\\ic_back_round.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable_line_vertical.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable\\line_vertical.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xxhdpi\\ic_back.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxhdpi_ic_back_round.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-xxhdpi\\ic_back_round.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable_line_vertical.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable\\line_vertical.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxhdpi_ic_back.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-xxhdpi\\ic_back.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xhdpi_ic_back.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-xhdpi\\ic_back.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\layout_custompopup.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\layout\\custompopup.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xhdpi\\ic_back.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-anydpi-v26_ic_back_round.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-anydpi-v26\\ic_back_round.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable-xhdpi\\ic_back.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable-anydpi_ic_close.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable-anydpi\\ic_close.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable-anydpi_ic_back.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable-anydpi\\ic_back.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable_editext_rounded_corners.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable\\editext_rounded_corners.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-hdpi\\ic_back.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-mdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-mdpi\\ic_back.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable-xxhdpi\\ic_close.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\layout_budget_calc.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\layout\\budget_calc.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\layout_budget_calc.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\layout\\budget_calc.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xhdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xhdpi\\ic_refresh.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-mdpi_ic_back.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-mdpi\\ic_back.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable-mdpi_ic_close.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable-mdpi\\ic_close.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable_editext_rounded_corners.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable\\editext_rounded_corners.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable-anydpi_ic_back.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable-anydpi\\ic_back.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable_rectangle_bg.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable\\rectangle_bg.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxhdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xxhdpi\\ic_refresh.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\layout_dialog_formula_layout.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\layout\\dialog_formula_layout.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable_rm.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable\\rm.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\layout_custompopup.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\layout\\custompopup.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable-xhdpi_ic_close.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable-xhdpi\\ic_close.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-mdpi_ic_back_round.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-mdpi\\ic_back_round.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable-hdpi_ic_close.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable-hdpi\\ic_close.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable-xxhdpi_ic_close.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable-xxhdpi\\ic_close.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable-xxhdpi\\ic_back.png"
     },
     {
         "merged": "com.example.wallet_apps.app-merged_res-29:/layout_budget_calc.xml.flat",
         "source": "com.example.wallet_apps.app-main-31:/layout/budget_calc.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable-anydpi_ic_close.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable-anydpi\\ic_close.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-hdpi_ic_back_round.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-hdpi\\ic_back_round.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable_line_horizontal.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable\\line_horizontal.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxxhdpi_ic_back_round.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-xxxhdpi\\ic_back_round.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable-mdpi_ic_back.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable-mdpi\\ic_back.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-hdpi_ic_back_round.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-hdpi\\ic_back_round.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable_dialog_bg.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable\\dialog_bg.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable-hdpi\\ic_back.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable-xhdpi_ic_back.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable-xhdpi\\ic_back.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable-hdpi_ic_back.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable-hdpi\\ic_back.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable-xhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable-xhdpi\\ic_close.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable-xxhdpi_ic_back.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable-xxhdpi\\ic_back.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xhdpi_ic_back_round.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xhdpi\\ic_back_round.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xhdpi_ic_back_round.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-xhdpi\\ic_back_round.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxxhdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xxxhdpi\\ic_refresh.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxhdpi_ic_back_round.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xxhdpi\\ic_back_round.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-hdpi_ic_back.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-hdpi\\ic_back.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable-mdpi_ic_close.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable-mdpi\\ic_close.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable_bottom_round_corner.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable\\bottom_round_corner.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable_bottom_round_corner.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable\\bottom_round_corner.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable_line_horizontal.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable\\line_horizontal.png"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-hdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-hdpi\\ic_refresh.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-merged_res-29:\\drawable_popup_bg.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.example.wallet_apps.app-main-31:\\drawable\\popup_bg.xml"
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-anydpi-v26_ic_back.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-anydpi-v26\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxxhdpi_ic_back_round.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xxxhdpi\\ic_back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable_popup_bg.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable\\popup_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable_rectangle_bg.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable\\rectangle_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable_dialog_bg.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable\\dialog_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-mdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-mdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-anydpi-v26_ic_back_round.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-anydpi-v26\\ic_back_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable-mdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\drawable-hdpi_ic_close.png.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Mockie\\.gradle\\daemon\\7.6\\com.example.wallet_apps.app-main-31:\\xml\\backup_rules.xml"
     }
 ]

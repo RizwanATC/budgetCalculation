@@ -4,7 +4,7 @@
             "outputFile": "com.example.wallet_apps.app-mergeDebugResources-27:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\901bd1e79ca3a5e2188025eed5ecc80d\\transformed\\appcompat-1.6.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\Mockie\\.gradle\\caches\\transforms-3\\f4e12e6892fd6c3834033cb963b67047\\transformed\\appcompat-1.6.1\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\dfe455107600617cfcbe36a5c8cee19f\\transformed\\material-1.8.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\Mockie\\.gradle\\caches\\transforms-3\\4c4724e2b28e83a4cfd8ad4c3400adae\\transformed\\material-1.8.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,10",
                         "startColumns": "4,4,4,4",

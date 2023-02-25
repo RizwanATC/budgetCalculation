@@ -54,13 +54,15 @@
         <LinearLayout
             android:layout_marginBottom="20dp"
             android:id="@+id/ly_Custom"
-            android:visibility="gone"
+            android:visibility="visible"
             android:gravity="center"
             android:layout_marginTop="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
             <EditText
+                android:gravity="center"
+                android:padding="10dp"
                 android:maxLength="2"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
@@ -75,27 +77,24 @@
                 android:textColor="@color/white">
             </TextView>
             <EditText
+                android:gravity="center"
+                android:padding="10dp"
                 android:maxLength="2"
                 android:layout_marginLeft="20dp"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:background="@drawable/editext_rounded_corners">
             </EditText>
-            <TextView
+            <ImageButton
+                android:background="@android:color/transparent"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="|"
                 android:textSize="30dp"
                 android:layout_marginLeft="20dp"
-                android:textColor="@color/white">
-            </TextView>
-            <EditText
-                android:maxLength="2"
-                android:layout_marginLeft="20dp"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:background="@drawable/editext_rounded_corners">
-            </EditText>
+                android:src="@mipmap/ic_refresh">
+            </ImageButton>
+
         </LinearLayout>
 
     </LinearLayout>
@@ -147,12 +146,14 @@
                 android:text="Keperluan">
             </TextView>
             <TextView
+                android:id="@+id/tv_percKeperluan"
                 android:gravity="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="%">
             </TextView>
             <TextView
+                android:id="@+id/tv_calCKeperluann"
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:layout_width="match_parent"
@@ -186,12 +187,14 @@
                 android:text="Kemahuan">
             </TextView>
             <TextView
+                android:id="@+id/tv_percKemahuan"
                 android:gravity="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="%">
             </TextView>
             <TextView
+                android:id="@+id/tv_calCkemahuan"
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:layout_width="match_parent"
@@ -225,12 +228,14 @@
                 android:text="Simpanan">
             </TextView>
             <TextView
+                android:id="@+id/tv_percSimpanan"
                 android:gravity="center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="%">
             </TextView>
             <TextView
+                android:id="@+id/tv_calsimpanan"
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:layout_width="match_parent"
