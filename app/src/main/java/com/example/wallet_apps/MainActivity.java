@@ -2,10 +2,7 @@ package com.example.wallet_apps;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.app.Dialog;
 import android.content.Intent;
-import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.View;
 import android.view.WindowManager;
@@ -44,26 +41,19 @@ public class MainActivity extends AppCompatActivity {
 
                 double calCGross = Double.parseDouble(gross.getText().toString());
                 double epfCalculation = 11*calCGross/100;
-                double socsoCalculation =0.49444444444444*calCGross/100;
-                double eisCalculation = 0.197*calCGross/100;
-                double taxCalculation = 2*calCGross/100;
-
+                double socsoCalculation =0.49*calCGross/100;
+                double eisCalculation = 0.19*calCGross/100;
+                double taxCalculation = 90;
                 double netSalary  = calCGross - epfCalculation-socsoCalculation-eisCalculation-taxCalculation;
 
-                String epfConv = Double.toString(epfCalculation);
-                String socConv = Double.toString(socsoCalculation);
-                String eisConV = Double.toString(eisCalculation);
-                String texConv = Double.toString(taxCalculation);
-                String salConv = Double.toString(netSalary);
-
-                DecimalFormat precision = new DecimalFormat("0.00");
 
 
-                salaryNet.setText("Rm: "+precision.format(salConv));
-                salaryNet.setText("Rm: "+precision.format(epfConv));
-                salaryNet.setText("Rm: "+precision.format(socConv));
-                salaryNet.setText("Rm: "+precision.format(eisConV));
-                salaryNet.setText("Rm: "+precision.format(texConv));
+
+                salaryNet.setText("Rm: "+netSalary);
+                epf.setText("Rm: "+epfCalculation);
+                socso.setText("Rm: "+socsoCalculation);
+                eis.setText("Rm: "+eisCalculation);
+                tax.setText("Rm: "+taxCalculation);
 
 
 
@@ -74,7 +64,9 @@ public class MainActivity extends AppCompatActivity {
         next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, budgetCalculation.class);
+                String netSalary = String.valueOf(salaryNet.getText());
+                Intent intent = new Intent(MainActivity.this, activityBudgetCalculation.class);
+                intent.putExtra("netSalary",netSalary);
                 startActivity(intent);
             }
         });
